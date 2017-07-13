@@ -1,1 +1,8 @@
- 事实上
+CREATE USER tcd WITH PASSWORD 'password';
+CREATE USER tcd001 WITH PASSWORD 'password';
+CREATE USER tcd002 WITH PASSWORD 'password';
+CREATE SCHEMA AUTHORIZATION tcd;
+CREATE SCHEMA AUTHORIZATION tcd001;
+CREATE SCHEMA AUTHORIZATION tcd002;
+grant all on schema tcd001 to tcd;
+grant all on schema tcd002 to tcd;
