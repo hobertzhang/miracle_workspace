@@ -1,1 +1,186 @@
-1111
+ssh-keygen -t rsa -C "59409721@qq.com"
+vim /home/git/.ssh/authorized_keys
+stevenrao@client:~$ mkdir /home/stevenrao/test_proj
+stevenrao@client:~$ cd /home/stevenrao/test_proj
+stevenrao@client:~/test_proj$ echo "test git by stevenrao v1.0" > test.txt
+stevenrao@client:~/test_proj$ git init Initialized empty Git repository in  /d/工作目录/myself/mygit/miracle/.git/
+stevenrao@client:~/test_proj$ git add .
+stevenrao@client:~/test_proj$ git commit -m 'initial commit' 
+stevenrao@client:~/test_proj$ git remote add origin quinnzhang@172.19.44.7:/home/data/git/miracle_workspace.git
+stevenrao@client:~/test_proj$ git push origin master
+stevenrao@client:~/test_proj$ git push origin master 
+
+git init Initialized empty Git repository in /home/stevenrao/test_proj/.git/
+
+git init Initialized empty Git repository in  /d/工作目录/myself/mygit/miracle/.git/
+git add .
+git commit -m 'initial commit'
+git remote add origin quinnzhang@116.62.196.86:/home/data/git/miracle_workspace.git
+git push origin master
+git push origin master
+
+
+
+
+git clone https://git.code.sf.net/p/gwt-uploader/code gwt-uploader-code
+ls
+cd d:/
+ls
+cd 工作目录/
+ls
+cd myself/
+ls
+cd ~/.ssh
+git clone --depth=14 https://github.com/angular/angular-phonecat.git
+#! /bin/sh
+exec ./run.sh dropDatabase
+#! /bin/sh
+exec ./run.sh createDbAndSchema
+git help
+git br -r
+git clone
+git branch
+git clone git://github.com/jquery/jquery.git
+git status
+ls
+cd  jquery
+git status
+git status
+git add  11.txt
+git status
+git commit -m 'test'
+git config --global 59409721@qq.com
+git config user.name
+git config user.email
+git config --global user.email "59409721@qq.com"
+git config user.email
+git config --global user.name "quinnzhang"
+ git config user.name
+git status
+git add
+git add 11.txt
+git commit -m test
+git pull
+git push
+cd ..
+cd ..
+ls
+cd mygit
+git remote -v
+mkdir zhang
+cd zhang
+git init
+touch 11.txt
+git add 11.txt
+git commit -m 'test'
+git remote add zky https://github.com/hobertzhang/miracle_workspace.git
+git 
+push 
+zpf 
+git push zky master
+git config --system http.sslcainfo "c:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt"
+git push zky master
+git config --system http.sslverify false
+exit
+git push zky master
+#! /bin/sh
+exec ./run.sh dropDatabase
+git clone https://coding.NET/u/shootyou/p/Tiny-Alert/Git
+git clone https://github.com/dolymood/AngularLearning
+git clone https://github.com/angular-app/angular-app
+#! /bin/sh
+exec ./run.sh dropDatabase
+git clone https://github.com/judasn/Basic-Single-Module-SSJPA
+git clone http://blog.csdn.net/jiejie1993/article/details/51201549
+git clone https://git.oschina.net/jiejie2016/SpringMvc.git
+git clone https://github.com/start-angular/sb-admin-angular.git
+#! /bin/sh
+exec ./run.sh dropDatabase
+gitclone https://github.com/MSOpenTech/redis
+git clone https://github.com/MSOpenTech/redis
+git clone https://github.com/spring-projects/spring-boot
+git clone git@116.62.196.86:/home/data/miracle_workspace.git
+git config user.name
+git config user.mail
+cat ~/.ssh/id_rsa.pub
+cd /d/
+cat ~/.ssh/id_rsa.pub
+ssh-keygen -t rsa -C "59409721@qq.com"
+cat ~/.ssh/id_rsa.pub
+ssh-keygen -t rsa -C "59409721@qq.com"
+cat ~/.ssh/id_rsa.pub
+cat ~/.ssh/y.pub
+ssh-keygen -t rsa -C "59409721@qq.com"
+cd .ssh
+cd ~/.ssh
+ls
+ssh-keygen -t rsa -C "59409721@qq.com"
+cd ~/.ssh
+ls
+cat id_rsa.pub 
+git clone git@116.62.196.86:/home/data/miracle_workspace.git
+git config user.name
+git clone quinnzhang@116.62.196.86:/home/data/miracle_workspace.git
+git status
+ls
+echo "test git by stevenrao v1.0" > test.txt
+git init Initialized empty Git repository in  /d/工作目录/myself/mygit/miracle/.git/
+git init
+ls
+git add.
+git add .
+git commit -m 'ttt'
+git remote add origin quinnzhang@172.19.44.7:/home/data/git/miracle_workspace.git
+git push origin master
+git add .
+git commit -m 'sss'
+git pull
+git init Initialized empty Git repository 
+git init Initialized empty Git repository in  /d/工作目录/myself/mygit/ttt/.git/
+git add .
+git init
+git add .
+git commit -m 'ttt'
+git init Initialized empty Git repository
+git init
+git add .
+git commit -m 'sss'
+git remote add origin quinnzhang@116.62.196.86:/home/data/git/miracle_workspace.git
+git push origin master
+git add .
+git status
+git commit -m 'ttt'
+git pull
+git push
+git push -u origin master
+git push -u origin master
+git status
+git add .
+git status
+git commit -m 'sfeis'
+git pull
+git push
+git status
+git add .
+git status
+git status
+git add .
+git status
+git commit -m 'db'
+git pull
+git push
+git status
+git add .
+git status
+git commit -m 'ttt'
+git push
+git status
+git status
+git add .
+git status
+git commit -m 'edit for export check'
+git pull
+git push
+exit
+git clone https://github.com/wdmir/521266750_qq_com.git
+git status
